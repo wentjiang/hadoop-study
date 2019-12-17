@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<configuration>
+    <property>
+        <name>name</name>
+        <value>wentjiang</value>
+    </property>
+    <property>
+        <name>age</name>
+        <value>26</value>
+    </property>
+</configuration>
